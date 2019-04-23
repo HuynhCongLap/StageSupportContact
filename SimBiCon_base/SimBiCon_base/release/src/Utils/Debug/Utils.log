@@ -1,0 +1,7 @@
+﻿cl : Ligne de commande warning D9035: l'option 'Gm' est déconseillée et sera supprimée dans une version ultérieure
+  Utils.cpp
+  Timer.cpp
+  Image.cpp
+  BMPIO.cpp
+  Génération de code en cours...
+  Utils.vcxproj -> C:\Users\p1419778\Downloads\SimBiCon_base\SimBiCon_base\release\src\Utils\..\binaries\Debug\Utils.lib

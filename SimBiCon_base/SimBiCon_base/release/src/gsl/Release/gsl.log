@@ -1,0 +1,27 @@
+﻿  blas.c
+  cblas.c
+  block.c
+  file.c
+  init.c
+  error.c
+C:\Users\p1419778\Downloads\SimBiCon_base\SimBiCon_base\release\src\gsl\error.c(40): warning C4474: 'printf' : trop d'arguments passés pour la chaîne de format
+  C:\Users\p1419778\Downloads\SimBiCon_base\SimBiCon_base\release\src\gsl\error.c(40): note: les espaces réservés et leurs paramètres attendent des arguments 0 variadiques, mais des arguments 3 ont été fournis
+  getset.c
+  matrix.c
+  copy.c
+  minmax.c
+  oper.c
+  prop.c
+  swap.c
+  vector.c
+  Génération de code en cours...
+  copy.c
+  file.c
+  init.c
+  minmax.c
+  oper.c
+  prop.c
+  swap.c
+  file.c
+  init.c
+  gsl.vcxproj -> C:\Users\p1419778\Downloads\SimBiCon_base\SimBiCon_base\release\src\gsl\..\binaries\Release\gsl.lib
