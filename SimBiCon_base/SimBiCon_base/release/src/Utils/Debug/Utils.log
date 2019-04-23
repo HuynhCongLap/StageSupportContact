@@ -1,0 +1,7 @@
+﻿cl : Command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  Utils.cpp
+  Timer.cpp
+  Image.cpp
+  BMPIO.cpp
+  Generating Code...
+  Utils.vcxproj -> C:\Users\Thomas\Documents\codes_PhD\SimBiCon_base\release\src\Utils\..\binaries\Debug\Utils.lib
