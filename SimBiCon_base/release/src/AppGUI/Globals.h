@@ -22,7 +22,7 @@
 */
 
 #pragma once
-
+#include <Windows.h>
 #include <TCL/tcl.h>
 #include <TCL/tk.h>
 #include "Application.h"
