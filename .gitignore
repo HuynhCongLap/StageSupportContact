@@ -12,8 +12,6 @@
 mono_crash.*
 
 # Build results
-x64/
-x86/
 [Aa][Rr][Mm]/
 [Aa][Rr][Mm]64/
 bld/
@@ -37,11 +35,6 @@ Generated\ Files/
 *.VisualState.xml
 TestResult.xml
 
-# Build Results of an ATL Project
-[Dd]ebugPS/
-[Rr]eleasePS/
-dlldata.c
-
 # Benchmark Results
 BenchmarkDotNet.Artifacts/
 
@@ -54,9 +47,6 @@ artifacts/
 StyleCopReport.xml
 
 # Files built by Visual Studio
-*_i.c
-*_p.c
-*_h.h
 *.ilk
 *.meta
 *.obj
