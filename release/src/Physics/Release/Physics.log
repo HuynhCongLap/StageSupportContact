@@ -1,4 +1,0 @@
-﻿  ODEWorld.cpp
-c:\users\thomas\documents\codes_phd\simbicon_base\release\src\mathlib\mathlib.h(38): warning C4005: 'INFINITY': macro redefinition
-  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\math.h(78): note: see previous definition of 'INFINITY'
-  Physics.vcxproj -> C:\Users\Thomas\Documents\codes_PhD\SimBiCon_base\release\src\Physics\../binaries/Release\Physics.lib
